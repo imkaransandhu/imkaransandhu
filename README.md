@@ -1,6 +1,6 @@
 ### Hey! I'm Karan Singh 👋
 
-I'm a software developer from New Zealand. 🇳🇿
+I'm a recent graduate and looking for software developer role in New Zealand. 🇳🇿
 
 I currently live in South Auckland, New Zealand. 🇳🇿
 
