@@ -2,7 +2,7 @@
 
 I'm a software developer from New Zealand. 🇳🇿
 
-I currently live in South Auckland, New Zealand. 🇩🇪
+I currently live in South Auckland, New Zealand. 🇳🇿
 
 I have been building Frontend application. The chat-app, huddle, todo-app, countries api are project from frontend mentors. 🌎
 
