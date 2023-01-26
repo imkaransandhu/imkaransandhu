@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hey! I'm Karan Singh 👋
 
-<!--
-**imkaransandhu/imkaransandhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer from New Zealand. 🇳🇿
 
-Here are some ideas to get you started:
+I currently live in South Auckland, New Zealand. 🇩🇪
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have been building Frontend application. The chat-app, huddle, todo-app, countries api are project from frontend mentors. 🌎
+
+I have successfuly implemented map view and filtering for propeties for the project of Metro NZ property management 🚀
+
+I like to develop applicaton with TypeScript (and JavaScript), modern backend APIs using node, express and json, and modern frontend frameworks using React, tailwind. 🤖
+
+Latest, I have passed LinkedIn assessment for Frontend developement, React, MySQL, HTML and CSS.
+
+
